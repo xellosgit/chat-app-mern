@@ -1,8 +1,8 @@
-# 🚀 Live Chat Application
+#  Live Chat Application
 
 A modern, feature-rich chat application built using the **MERN stack**, integrated with **Socket.io** for real-time communication, and styled beautifully with **TailwindCSS** and **DaisyUI**. This project showcases advanced full-stack development techniques and offers a seamless user experience.
 
-## 🌟 Features  
+##  Features  
 
 - **User Authentication & Authorization**: Secure JWT-based system to protect user data.  
 - **Real-Time Messaging**: Instant communication powered by **Socket.io** for a dynamic user experience.  
@@ -14,7 +14,7 @@ A modern, feature-rich chat application built using the **MERN stack**, integrat
 - **Scalable Backend**: Built with Express.js and MongoDB, optimized for performance.  
 - **Production-Ready Deployment**: Deploy the app effortlessly using modern hosting solutions.  
 
-## 📦 Tech Stack  
+##  Tech Stack  
 
 - **Frontend**: React.js, Zustand, TailwindCSS, DaisyUI  
 - **Backend**: Node.js, Express.js, MongoDB  
